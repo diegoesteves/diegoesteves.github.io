@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Diego Esteves / Dr. Diego Esteves"
+title                    : "Diego Esteves"
 title_separator          : "-"
 name                     : &name "Dr. Diego Esteves"
 description              : &description "Principal Data Scientist"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Diego Esteves"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "DE, PT"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Principal Data Scientist at Farfetch and Associate Research at SDA"
+  location         : "Portugal, Germany"
+  employer         : "Farfetch.com"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PS2D2GoAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "diegoestevesde"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
