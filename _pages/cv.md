@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MBA in Engineering, Software Engineering, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil, 2009.
+* M.S. in Computer Science, Machine Learning, Military Institute of Engineering (IME), Rio de Janeiro, Brazil, 2014.
+* Ph.D in Mathematics and Computer Science, University of Bonn, Bonn, Germany, 2019.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep-2019 to Present: Farfetch - Porto, Portugal
+  * Principal Data Scientist
+  * Search and Discovery Cluster
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun-2014 to Present: SDA Research - Bonn, Germany
+  * Associate Researcher
+    * Search and Discovery Cluster
+  * Associate Researcher
+    * Search and Discovery Cluster
+
+* Feb-June 2019: Senior Researcher
+  * Fraunhofer, Porto, Portugal
+  * Intelligent Systems
+
+
   
 Skills
 ======

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Diego Esteves"
+title                    : "Diego Esteves, Ph. D."
 title_separator          : "-"
 name                     : &name "Dr. Diego Esteves"
 description              : &description "Principal Data Scientist"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Diego Esteves"
+  name             : "Dr. Diego Esteves 🇧🇷🇵🇹"
   avatar           : "profile.png"
-  bio              : "Principal Data Scientist at Farfetch and Associate Research at SDA"
+  bio              : "Principal Data Scientist at Farfetch 🇬🇧 and Associate Research at SDA 🇩🇪"
   location         : "Portugal, Germany"
   employer         : "Farfetch.com"
   pubmed           : 
